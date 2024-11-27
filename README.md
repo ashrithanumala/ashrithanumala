@@ -4,5 +4,7 @@ I'm an undergrad studying Stats & CS[💻](https://siebelschool.illinois.edu/new
 
 I'm currently looking for opportunities within ML, Data Science, and Full-stack development.
 
-[My LinkedIn](https://www.linkedin.com/in/ashrithanumala/)
-[My Portfolio Website](https://ashrithanumala.github.io/)
+[LinkedIn](https://www.linkedin.com/in/ashrithanumala/)
+
+
+[Portfolio](https://ashrithanumala.github.io/)
