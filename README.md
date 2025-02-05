@@ -4,11 +4,7 @@ I'm an undergrad studying Stats & CS[💻](https://siebelschool.illinois.edu/new
 
 I'm currently looking for opportunities within ML, Data Science, and Full-stack development.
 
-### 📊 Stats
-
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=ashrithanumala&show_icons=true&theme=gruvbox)
 
 [LinkedIn](https://www.linkedin.com/in/ashrithanumala/)
-
 
 [Portfolio](https://ashrithanumala.github.io/)
