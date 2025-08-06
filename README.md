@@ -1,6 +1,6 @@
 ### Hi, I'm Ashrith!
 
-I'm an undergrad studying Stats & CS[💻](https://siebelschool.illinois.edu/news/why-you-want-cs-math-and-stats-degree) at the University of Illinois Urbana-Champaign[🌽](https://en.wikipedia.org/wiki/University_of_Illinois_Urbana-Champaign).
+I'm a masters student studying computer science at The University of Illinois Urbana-Champaign[🌽](https://en.wikipedia.org/wiki/University_of_Illinois_Urbana-Champaign). I also completed my undergrad here in Stats & CS[💻](https://siebelschool.illinois.edu/news/why-you-want-cs-math-and-stats-degree).
 
 I'm currently looking for opportunities within ML, Data, and Full-stack development.
 
